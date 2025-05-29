@@ -63,7 +63,7 @@ author:
   bio    : "Data professional with 5+ years’ experience in mining, interpreting, and presenting datasets in support of business intelligence needs."
   links:
     - label: "LinkedIn"
-      icon: "fa fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/rathipriyankasrinivasan/"
     #- label: "Twitter"
      # icon: "fab fa-fw fa-twitter-square"
